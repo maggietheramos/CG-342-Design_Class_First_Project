@@ -17,13 +17,13 @@ p{
 
 .button-alert {
     border-style: groove;
-    border-color: lightblue;
-    background-color: aliceblue;
-    border-width: 3px;
+    border-color: rgb(223, 247, 255);
+    background-color: rgb(181, 219, 252);
+    border-width: 5px;
     text-decoration: none;
     color: black;
-    border-radius: 5px;
-    display: flexbox;
+    border-radius: 10px;
+    display: block;
     width: 80px;
     text-align: center;
     margin-top: 20px;
