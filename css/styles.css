@@ -66,7 +66,8 @@ p{
 }
 
 footer {
-    height: 50px;
+    height: 100px;
     text-align: center;
     padding: 10px 0;
+    background-color: lavenderblush;
 }
