@@ -17,8 +17,10 @@ p{
 
 .button-links {
     border-style: solid;
-    border-color:crimson;
+    border-color:rgb(211, 60, 90);
     background-color: lightcoral;
     border-width: 2px;
-    
+    text-decoration: none;
+    color: black;
+
 }
