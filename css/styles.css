@@ -43,3 +43,22 @@ p{
     text-align: center;
     margin-top: 20px;
 }
+
+.top-banner {
+    height: 240px;
+    text-align: center;
+    padding-top:110;
+    background-color: powderblue;
+}
+
+.main-content {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+    padding: 10px 0;
+}
