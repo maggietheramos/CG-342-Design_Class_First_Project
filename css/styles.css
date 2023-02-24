@@ -15,13 +15,21 @@ p{
     line-height: 24px;
 }
 
-.button-link {
-    border-style: solid;
-    border-color:rgb(211, 60, 90);
-    background-color: lightcoral;
+.button-alert {
+    border-style: groove;
+    border-color: lightblue;
+    background-color: aliceblue;
     border-width: 3px;
     text-decoration: none;
     color: black;
+    border-radius: 5px;
+    display: flexbox;
+    width: 80px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button-link {
     border-style: solid;
     border-color: rgb(211, 60, 90);
     background-color: lightcoral;
