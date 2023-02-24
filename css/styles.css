@@ -1,8 +1,9 @@
 body{
     background-color: pink;
-    ;
+    
 }
 
+/* typography */
 
 h1{
     color:blueviolet;
@@ -12,4 +13,12 @@ h1{
 p{ 
     color: green;
     line-height: 24px;
+}
+
+.button-links {
+    border-style: solid;
+    border-color:crimson;
+    background-color: lightcoral;
+    border-width: 2px;
+    
 }
