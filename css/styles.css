@@ -58,12 +58,12 @@ footer {
     background-color: rgb(118, 78, 182);
 }
 
-nav {
+.nav-links {
     padding: 20ox;
 
 }
 
-.nav-links {
+.nav-links li {
     display: inline;
     list-style-type: none;
     padding: 0px;
