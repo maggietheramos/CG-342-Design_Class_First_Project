@@ -70,3 +70,17 @@ footer {
     padding: 10px 0;
     background-color: rgb(118, 78, 182);
 }
+
+nav {
+    padding: 20ox;
+
+}
+
+.nav-links {
+    list-style-type: none;
+
+}
+
+.nav-links li {
+
+}
