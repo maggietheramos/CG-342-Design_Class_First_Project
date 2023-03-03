@@ -82,5 +82,6 @@ nav {
 }
 
 .nav-links li {
+    display: inline;
 
 }
