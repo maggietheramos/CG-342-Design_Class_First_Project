@@ -44,19 +44,6 @@ p{
     margin-top: 20px;
 }
 
-.top-banner {
-    height: 240px;
-    text-align: center;
-    padding-top:110;
-    background-color: powderblue;
-    border-width: 300px;
-    color: black;
-    padding: 10px;
-    border-radius: 20px;
-    display: block;
-    text-align: center;
-    margin-top: 10px;
-}
 
 .main-content {
     max-width: 800px;
@@ -77,11 +64,32 @@ nav {
 }
 
 .nav-links {
+    display: inline;
     list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    width: 200px;
+
 
 }
 
-.nav-links li {
-    display: inline;
+.nav-links li a {
+    padding-left: 10px;
+    padding-right: 5px;
+    
 
+}
+
+.top-banner {
+    height: 240px;
+    text-align: center;
+    padding-top:110;
+    background-color: powderblue;
+    border-width: 300px;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
 }
