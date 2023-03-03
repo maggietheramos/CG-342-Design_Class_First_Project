@@ -63,13 +63,17 @@ nav {
 
 }
 
-.nav-links li {
+.nav-links {
     list-style-type: none;
-    width: 200px;
-    margin: 0 auto;
-    display: inline;
     padding: 0px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
     
+    
+.nav-links li {
+    display: inline;
+}
     
 
 
