@@ -64,18 +64,20 @@ nav {
 }
 
 .nav-links li {
-    display: inline;
     list-style-type: none;
-    padding: 0px;
-    margin: 0px;
     width: 200px;
+    margin: 0 auto;
+    display: inline;
+    padding: 0px;
+    
+    
 
 
 }
 
 .nav-links li a {
     padding-left: 10px;
-    padding-right: 5px;
+    padding-right: 10px;
     
 
 }
