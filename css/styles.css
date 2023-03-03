@@ -64,6 +64,9 @@ footer {
 
 nav {
     padding: 20ox;
+    position: fixed; 
+    width: 100%;
+    background-color: white;
 
 }
 
