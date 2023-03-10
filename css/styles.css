@@ -123,12 +123,11 @@ nav {
             color:#711E42;
             font-size: 40px;
             font-family: 'Gloock', serif;
-            background-color: whitesmoke;
-            margin: 0 20px;
+            margin: 10 20px;
         }
 
         h2{
-            color: white;
+            color: #000;
         }
 
         h3{
