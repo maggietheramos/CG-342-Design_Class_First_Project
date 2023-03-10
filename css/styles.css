@@ -110,6 +110,13 @@ nav {
     background-attachment: fixed;
 }
 
+img{
+    width: 100%;
+}
+
+.article-image{
+    width: 300px;
+}
 
     /* Mobile styles*/
     /* this site helps check for contrast https://webaim.org/resources/contrastchecker/ */
@@ -139,6 +146,7 @@ nav {
             color: #FFC7DF;
         }
 
-
+        .article-image
+        border: 1px solid #000;
 
       }
