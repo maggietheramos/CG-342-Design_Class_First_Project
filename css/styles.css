@@ -112,6 +112,7 @@ nav {
 
 
     /* Mobile styles*/
+    /* this site helps check for contrast https://webaim.org/resources/contrastchecker/ */
 
     @media only screen and (max-width: 600px) {
         /*mobike styles go here*/
